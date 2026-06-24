@@ -2,6 +2,7 @@
 
 A retro-futuristic desktop calculator inspired by classic X11 applications,
 CRT terminals, and cyberpunk aesthetics.
+<img width="1278" height="936" alt="image" src="https://github.com/user-attachments/assets/5b3af204-840c-4de5-9fc9-4d73df850efa" />
 
 ## Features
 
