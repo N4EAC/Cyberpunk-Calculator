@@ -55,7 +55,3 @@ v1.1.0 Stable
 ## Author
 
 Eduardo de Carvalho
-
-## Acknowledgements
-
-Built with assistance from OpenAI ChatGPT.
